@@ -1,7 +1,7 @@
 # Hello World 🌎 I'm Lydia 👋🏻
 
-#### 👩🏻‍💼➡️👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer. 
-#### 🥞 Full stack JavaScript Developer from Seattle
+### 👩🏻‍💼➡️👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer. 
+### 🥞 Full stack JavaScript Developer from Seattle
 
 ## Current Tech Toolkit 🧰
 
