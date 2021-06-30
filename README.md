@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaMT&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-## Let's Connect
+## Let's Connect!
 - 💌  <a href="mailto:lydiaminehantubic@gmail.com">Gmail</a>
 - 👩🏻‍💼 [LinkedIn](https://www.linkedin.com/in/lydiaminehantubic/)
 - 🖋 [CodePen](https://codepen.io/lydiamt/pens/loved)
