@@ -36,5 +36,5 @@
 - 📷 [Instagram](https://www.instagram.com/lyduwa/)
 
 # 
-![](https://komarev.com/ghpvc/?username=LydiaMT&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=LydiaMT&color=e582d8&style=flat)
 
