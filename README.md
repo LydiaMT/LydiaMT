@@ -35,4 +35,6 @@
 - 🐦 [Twitter](https://twitter.com/crushonradio08)
 - 📷 [Instagram](https://www.instagram.com/lyduwa/)
 
+# 
+![](https://komarev.com/ghpvc/?username=LydiaMT&color=blueviolet&style=flat-square)
 
