@@ -1,6 +1,6 @@
 # Hello World 🌎 I'm Lydia 👋🏻
 
-- 👩🏻‍💼➡️👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
+- 👩🏻‍💼 ➡️ 👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
 - 🥞 Full stack JavaScript Developer from Seattle
 - 🧘🏻‍♀️ If I'm not coding, I'm probably doing yoga
 
