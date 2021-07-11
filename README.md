@@ -3,6 +3,7 @@
 - 👩🏻‍💼 ➡️ 👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
 - 🥞 Full stack JavaScript Developer from Seattle
 - 🧘🏻‍♀️ If I'm not coding, I'm probably doing yoga
+- 🎨🖌 [See my portfolio](https://lydiamt.github.io/portfolio/) and learn more about me
 
 ## Current Tech Toolkit 🧰
 
@@ -37,4 +38,6 @@
 
 # 
 ![](https://komarev.com/ghpvc/?username=LydiaMT&color=e582d8&style=flat)
+
+<!-- [![Lydia's github activity graph](https://activity-graph.herokuapp.com/graph?username=LydiaMT&theme=dracula)](https://github.com/LydiaMT/github-readme-activity-graph) -->
 
