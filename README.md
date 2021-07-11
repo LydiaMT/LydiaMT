@@ -3,7 +3,7 @@
 - 👩🏻‍💼 ➡️ 👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
 - 🥞 Full stack JavaScript Developer from Seattle
 - 🧘🏻‍♀️ If I'm not coding, I'm probably doing yoga
-- 🎨🖌 [See my portfolio](https://lydiamt.github.io/portfolio/) and learn more about me
+- 🎨🖌  <a href="https://lydiamt.github.io/portfolio/" target="_blank" rel="noopener">See my portfolio</a> and learn more about me
 
 ## Current Tech Toolkit 🧰
 
