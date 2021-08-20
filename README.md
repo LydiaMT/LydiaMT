@@ -2,6 +2,7 @@
 
 - 👩🏻‍💼 ➡️ 👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
 - 🥞 Full stack JavaScript Developer from Seattle
+- 🍎 Currently working as a Teaching Assistant at [Code Fellows](https://www.codefellows.org/) coding school
 - 🧘🏻‍♀️ If I'm not coding, I'm probably doing yoga
 - 🎨🖌  [See my portfolio](https://lydiamt.github.io/portfolio/) and learn more about me
 
