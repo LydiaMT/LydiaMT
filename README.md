@@ -32,6 +32,7 @@
 ## Let's Connect!
 - 💌  <a href="mailto:lydiaminehantubic@gmail.com">Gmail</a>
 - 👩🏻‍💼 [LinkedIn](https://www.linkedin.com/in/lydiaminehantubic/)
+- 📝 [Dev.to](https://dev.to/lydiamt)
 - 🖋 [CodePen](https://codepen.io/lydiamt/pens/loved)
 - 🏗 [Replit](https://replit.com/@LydiaMinehanTub)
 - 🐦 [Twitter](https://twitter.com/crushonradio08)
