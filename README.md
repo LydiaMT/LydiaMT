@@ -1,10 +1,10 @@
 # Hello World 🌎 I'm Lydia 👋🏻
 
-- 👩🏻‍💼 ➡️ 👩🏻‍💻 I'm a renewable energy Program Manager gone Programmer
-- 🥞 Full stack JavaScript Developer from Seattle
-- 🍎 Currently working as a Teaching Assistant at [Code Fellows](https://www.codefellows.org/) coding school
-- 🧘🏻‍♀️ If I'm not coding, I'm probably doing yoga
-- 🌐 [See my portfolio](https://lydiamt.github.io/portfolio/) and [read my blog](https://dev.to/lydiamt) to learn more about me
+- 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm a renewable energy Program Manager gone Programmer
+- 🥞  Full stack JavaScript Developer from Seattle
+- 🍎  Currently working as a Teaching Assistant at [Code Fellows](https://www.codefellows.org/) coding school
+- 🧘🏻‍♀️  If I'm not coding, I'm probably doing yoga
+- 🌐  [See my portfolio](https://lydiamt.github.io/portfolio/) and [read my blog](https://dev.to/lydiamt) to learn more about me
 
 ## Current Tech Toolkit 🧰
 
@@ -30,13 +30,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaMT&layout=compact&theme=cobalt&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
-- 💌  <a href="mailto:lydiaminehantubic@gmail.com">Gmail</a>
-- 👩🏻‍💼 [LinkedIn](https://www.linkedin.com/in/lydiaminehantubic/)
-- 📝 [Dev.to](https://dev.to/lydiamt)
-- 🖋 [CodePen](https://codepen.io/lydiamt/pens/loved)
-- 🏗 [Replit](https://replit.com/@LydiaMinehanTub)
-- 🐦 [Twitter](https://twitter.com/crushonradio08)
-- 📷 [Instagram](https://www.instagram.com/lyduwa/)
+- 💌  - <a href="mailto:lydiaminehantubic@gmail.com">Gmail</a>
+- 👩🏻‍💼  - [LinkedIn](https://www.linkedin.com/in/lydiaminehantubic/)
+- 📝  - [Dev.to](https://dev.to/lydiamt)
+- 🖋  - [CodePen](https://codepen.io/lydiamt/pens/loved)
+- 🏗  - [Replit](https://replit.com/@LydiaMinehanTub)
+- 🐦  - [Twitter](https://twitter.com/crushonradio08)
+- 📷  - [Instagram](https://www.instagram.com/lyduwa/)
 
 # 
 ![](https://komarev.com/ghpvc/?username=LydiaMT&color=e582d8&style=flat)
