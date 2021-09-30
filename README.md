@@ -35,7 +35,6 @@
 - 📝  - [Dev.to](https://dev.to/lydiamt)
 - 🖋  - [CodePen](https://codepen.io/lydiamt/pens/loved)
 - 🏗  - [Replit](https://replit.com/@LydiaMinehanTub)
-- 🐦  - [Twitter](https://twitter.com/crushonradio08)
 - 📷  - [Instagram](https://www.instagram.com/lyduwa/)
 
 # 
