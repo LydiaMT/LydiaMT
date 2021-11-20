@@ -2,6 +2,7 @@
 
 - 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm a renewable energy Program Manager gone Programmer
 - 🥞  Full stack JavaScript Developer from Seattle
+- Currently working at <a href="mailto:lydiaminehantubic@gmail.com">https://clickup.com/</a> ✨💜🦄
 - 🧘🏻‍♀️  If I'm not coding, I'm probably doing yoga
 - 🌐  [See my portfolio](https://lydiamt.github.io/portfolio/) and [read my blog](https://dev.to/lydiamt) to learn more about me
 
